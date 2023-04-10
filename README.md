@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Software Developer from Nepal</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maneesshh&label=Profile%20views&color=0e75b6&style=flat" alt="maneesshh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maneesshh" alt="maneesshh" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=maneesshh" alt="maneesshh" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"/>
 <p align="left"> <a href="https://twitter.com/bma_ni_sh" target="blank"><img src="https://img.shields.io/twitter/follow/bma_ni_sh?logo=twitter&style=for-the-badge" alt="bma_ni_sh" /></a> </p>
 
