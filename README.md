@@ -30,4 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maneesshh&show_icons=true&locale=en" alt="maneesshh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maneesshh&" alt="maneesshh" /></p>
+<p>🐍 Eating my contrubition Graph </p>
 
+![snake animation](https://github.com/Maneesshh/Maneesshh/blob/output/github-contribution-grid-snake.svg)
